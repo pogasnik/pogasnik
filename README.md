@@ -31,4 +31,4 @@ TypeScript · Next.js · React · Tailwind · PostgreSQL / Supabase · React Nat
 
 #### Contact
 
-[pogofolio.vercel.app](https://pogofolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nikolaos-pogas) · [hypnotech.gr](https://hypnotech.gr) · pogasnik@gmail.com
+[nikolaos-pogas.vercel.app](https://nikolaos-pogas.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nikolaos-pogas) · [hypnotech.gr](https://hypnotech.gr) · pogasnik@gmail.com
